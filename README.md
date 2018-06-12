@@ -16,10 +16,10 @@ When the stop button is clicked, the app should complete its recording and then 
 #### PlaySoundsViewController
 
 The play sounds view has six buttons to play the recorded sound file and a button to stop the playback.
-The buttons for playing the recorded sounds will have images corresponding to their sound effect:<br/>
-     Chipmunk image → High-pitched sound<br/>
-     Darth Vader image →  Low-pitched sound<br/>
-     Snail image → Slow sound<br/>
-     Rabbit image → Fast sound<br/>
-     Bird image → Echo sound<br/>
-     Reverb image → Reverb sound<br/>
+The buttons for playing the recorded sounds will have images corresponding to their sound effect:<br />
+- Chipmunk image → High-pitched sound<br/>
+- Darth Vader image →  Low-pitched sound<br/>
+- Snail image → Slow sound<br/>
+- Rabbit image → Fast sound<br/>
+- Bird image → Echo sound<br/>
+- Reverb image → Reverb sound<br/>
