@@ -1,6 +1,9 @@
 # PitchPerfect
 The Pitch Perfect app allows users to record a sound using the device’s microphone.<br /> 
-It then allows users to play the recorded sound back with six different sound modulations: Chipmunk, Darth Vader, Super Slow, Super Fast, Reverb and Echo.
+It then allows users to play the recorded sound back with six different sound modulations: Chipmunk, Darth Vader, Super Slow, Super Fast, Reverb and Echo.<br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="Screenshots/record-controller.png" height="450"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Screenshots/record-controller-recording.png" height="450"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Screenshots/play-controller.png" height="450"/>
 ## Implementation
 The app has two view controller scenes:<br />
 - RecordSoundsViewController - Allows users to record a sound.  
